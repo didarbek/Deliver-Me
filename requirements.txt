@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+django-countries
+psycopg2
+pillow
+celery
+stripe
+python-dotenv
